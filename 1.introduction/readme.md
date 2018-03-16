@@ -23,6 +23,18 @@ sudo pip3 install tensorflow
 sudo pip3 install keras
 
 
+*주피터 노트북 설치
+
+pip3 install --upgrade pip
+
+pip3 install jupyter
+
+주피터 노트북 실행방법
+
+코맨드창에서
+
+jupyter notebook
+
 
 * Reference
 
